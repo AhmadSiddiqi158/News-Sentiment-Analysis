@@ -1,6 +1,6 @@
 # News-Sentiment-Analysis
 
-This project performs VADER sentiment analysis on all the titles of the querried topic's news articles.
+This project performs VADER sentiment analysis on all the news article's titles of the querried topic.
 
 VADER ( Valence Aware Dictionary for Sentiment Reasoning) is a model used for text sentiment analysis that is sensitive to both polarity (positive/negative) and intensity (strength) of emotion.
 
