@@ -11,6 +11,10 @@ Make sure you have python3 installed.
 
 To install newsapi: ```pip install newsapi-python```
 
+To install newsapi: ```pip install pandas```
+
+To install newsapi: ```pip install matplotlib```
+
 To install natural language tool kit: ```pip install nltk```
 
 To download VADER: ```nltk.download('vader_lexicon')```
