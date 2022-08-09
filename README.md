@@ -11,9 +11,9 @@ Make sure you have python3 installed.
 
 To install newsapi: ```pip install newsapi-python```
 
-To install newsapi: ```pip install pandas```
+To install pandas: ```pip install pandas```
 
-To install newsapi: ```pip install matplotlib```
+To install matplotlib: ```pip install matplotlib```
 
 To install natural language tool kit: ```pip install nltk```
 
