@@ -1,6 +1,6 @@
 from unicodedata import name
 import nltk
-#nltk.download('vader_lexicon')
+nltk.download('vader_lexicon')
 import pandas as pd
 import matplotlib.pyplot as plt
 from nltk.sentiment import SentimentIntensityAnalyzer
